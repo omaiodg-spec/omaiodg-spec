@@ -34,8 +34,8 @@
 - **[Gestion-de-tache](https://github.com/omaiodg-spec/Gestion-de-tache)** : gestionnaire de tâches en Python
 - **[site-web-pour-un-tailleur](https://github.com/omaiodg-spec/site-web-pour-un-tailleur)** : site vitrine
 - **[A'soue](https://github.com/omaiodg-spec/A-Soue)** : Plateforme innovante de gestion des déchets recyclables à Ouagadougou
-  - **[ArtiYaar](https://github.com/Nathan06-hub/ArtiYaar)** : projet d'équipe réalisé lors d'un hackathon, nous avons conçu et développer Artiyaar_ une plateforme web qui connecte les artisans locaux aux citoyens de leur quartier, grâce à la géolocalisation, un moteur de recherche avancer et une notation intelligente par IA
-  - *Hackathon régional CIF* : projet d'équipe, nous avons conçu Samde, une plateforme intégrant un modèle de machine Learning capable de récupérer les données d'un demandeur de crédit, d'exploiter les informations issues de l'instruction du crédit, et de générer automatiquement un score de risque "le microcrédit, décidé sur des faits".
+- **[ArtiYaar](https://github.com/Nathan06-hub/ArtiYaar)** : projet d'équipe réalisé lors d'un hackathon, nous avons conçu et développer Artiyaar_ une plateforme web qui connecte les artisans locaux aux citoyens de leur quartier, grâce à la géolocalisation, un moteur de recherche avancer et une notation intelligente par IA
+- **[Hackathon régional CIF] (https://github.com/amiir-savadogo/Hackathon_regional_cif)** : projet d'équipe, nous avons conçu Samde, une plateforme intégrant un modèle de machine Learning capable de récupérer les données d'un demandeur de crédit, d'exploiter les informations issues de l'instruction du crédit, et de générer automatiquement un score de risque "le microcrédit, décidé sur des faits".
 
 ---
 
