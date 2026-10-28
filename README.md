@@ -49,7 +49,7 @@
 
 - 📧 Email : [omaiodg@gmail.com](mailto:omaiodg@gmail.com)
 - 💼 LinkedIn : [Oumaïmata Ouedraogo](https://www.linkedin.com/in/omaïma-ouedraogo-432303398)
-- 🌐 Portfolio : [oumaimataportfolio.netlify.app](https://oumaimataportfolio.netlify.app)
+- 🌐 Portfolio : [oumaimataportfolio.netlify.app](https://oumaimata.netlify.app)
 
 ---
 
